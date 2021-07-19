@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579431176802",
+    "project_id": "markettown-d7f90",
+    "storage_bucket": "markettown-d7f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579431176802:android:fd58ffa9608cdedee20f3b",
+        "android_client_info": {
+          "package_name": "com.Yee.flutter_shit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579431176802-loa5kfip1vu6nj5ejvhhi8rbcdq2vg80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM8_PujQdqeJMP7nbk7RduTSt6iWYWhSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579431176802-loa5kfip1vu6nj5ejvhhi8rbcdq2vg80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
